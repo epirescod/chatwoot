@@ -35,14 +35,5 @@ psql -U postgres
 
 create database n8ndb; create database chatwoot;
 
-Mfcd62!!Mfcd62!!
 
-
-
-Tema Criador de Empresa:
-
-Nome Usuario Administrador: RaphaelPopiolek
-Nome da Empresa: AstraOnline
-Email: machineteste24@gmail.com
-Senha: Mfcd62!!
 
